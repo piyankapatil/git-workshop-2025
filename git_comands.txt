@@ -1,4 +1,4 @@
-Initilize Empty Reposiotry
+Initialize Empty Repository
 git init
 
 Check file status
